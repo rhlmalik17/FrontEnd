@@ -1,0 +1,11 @@
+/*Border property:-
+   border: size style color;
+   Note: the size will be in px, the style can be solid,dotted etc, and color can be written in hex code also;
+
+*/
+.demo
+{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+}

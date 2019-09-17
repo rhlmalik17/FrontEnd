@@ -1,0 +1,13 @@
+/*Margin property:-
+    margin-top
+    margin-right
+    margin-left
+    margin-bottom
+*/
+.demo
+{
+    background-color: yellowgreen;
+    color: coral;
+    margin: 30px;
+
+}
