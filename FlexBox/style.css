@@ -1,0 +1,50 @@
+/*
+    HTML tag types:-
+    1. Inline: -> The size occupied by these tags are directly proportional to the content they have with them.
+        for eg: span
+    2. Block: -> This will always render in a new line.
+              -> Occupies the whole line forming it as a parent pane for it's child tags
+        for eg: div,p,h
+
+    CSS inline properties:-
+    1. display: block; //This changes the nature of the tag
+    2. display: none; //This will keep it from rendering
+    3. visibility: hidden;
+
+    CSS Block Properties:-
+    1. display: flex;
+    2. flex-direction: row; //This is the default flex value;
+    3. flex-direction: column;
+    4. flex-direction: column-reverse;
+    5. flex-direction: row-reverse;
+    6. justify-content: flex-start;
+    7. justify-content: flex-end;
+    8. justify-content: center;
+    9. justify-content: space-around; //space is divided between the divs
+    10. justify-content: space-between;
+    11. align-items: flex-start;
+    12. align-items: flex-end;
+    13. align-items: center;
+
+Question: Difference between display: none; and visibility: none;
+Ans: display: none; will cause the tag to not to render.
+     visibility: hidden; will cause the tag to actually exist in the body but is not visible.
+*/
+
+.container
+{
+    background: purple;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.container div{
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}

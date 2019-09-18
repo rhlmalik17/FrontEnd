@@ -1,0 +1,41 @@
+.head
+{
+    height: 50px;
+    width: 300px;
+    background-color: dodgerblue;
+}
+.head .div1
+{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+.body
+{
+    justify-content: space-around;
+    height: 200px;
+    width: 260px;
+    background-color: purple;
+    padding: 20px;
+    display: flex;
+
+}
+.body div
+{
+    height: 170px;
+    width: 100px;
+    margin: 10px;
+    background-color: white;
+    overflow: hidden;
+}
+ .body .flex1 .A{
+     height: 40px;
+     width: 80%;
+    background-color: wheat;
+
+}
+ .bottom{
+     background-color: greenyellow;
+     height: 50px;
+     width: 300px;
+ }
