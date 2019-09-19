@@ -1,0 +1,21 @@
+/* BOX SHADOW PROPERTY
+    box-shadow: horizontal-offsetpx, vertical-offsetpx, blur, color;
+*/
+
+
+.demo
+{
+    text-align: center;
+    background-color: #3A93CC;
+    height: 50px;
+    width: 50px;
+    margin: 50%;
+
+}
+.demo:hover
+{
+    transition: 0.2s;
+    transform: translateY(-2px);
+    box-shadow: 5px 5px 5px red;
+
+}

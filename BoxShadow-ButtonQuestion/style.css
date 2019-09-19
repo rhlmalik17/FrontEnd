@@ -1,0 +1,30 @@
+.myButton{
+    height: 50px;
+    width: 150px;
+    margin: 50%;
+    border: none;
+    color: black;
+    border-radius: 20px;
+    background-color: #ececcb;
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px grey;
+}
+.myButton:hover
+{
+    cursor: pointer;
+    transform: translateY(-10px);
+    color: white;
+    background-color: #74dc22;
+    border: none;
+    box-shadow: 0px 10px 15px #74ff4b;
+}
+.myButton:active
+{
+    cursor: pointer;
+    transform: translateY(-3px);
+    color: white;
+    background-color: #74dc22;
+    border: none;
+    box-shadow: 0px 0px 5px #74ff4b;
+    outline-width: 0;
+}

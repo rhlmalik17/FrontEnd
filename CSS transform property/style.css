@@ -1,0 +1,31 @@
+/* CSS TRANSFORM PROPERTIES
+    transform: translateX(px);
+    transform: translateY(px);
+    transform: translate(Xpx,Ypx);
+    transform: scale(int);
+    transform: scale(int,int);
+    transform: rotate(deg);
+    transform: rotateX(deg);
+    transform: rotateY(deg);
+    transform: skew(Xdeg,Ydeg);
+
+    CSS TRANSITION PROPERTIES:-
+    transition-duration: s;
+    transition-delay: s;
+*/
+
+
+.demo
+{
+    background-color: #3A93CC;
+    height: 50px;
+    width: 50px;
+    margin: 50%;
+}
+.demo:hover
+{
+    background-color: greenyellow;
+    transform: translateX(20px);
+    transition-duration: 1s;
+    transition-delay: 1s;
+}

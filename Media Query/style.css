@@ -1,0 +1,22 @@
+/*
+Media Query defines the changes that are executed only when the condition passed is satisfied;
+ */
+
+
+.demo
+{
+    height: 100px;
+    width: 100px;
+    background-color: #3A93CC;
+
+
+}
+
+@media(max-width:  1000px)
+{
+    .demo
+    {
+        background-color: red;
+        width: 90px;
+    }
+}
