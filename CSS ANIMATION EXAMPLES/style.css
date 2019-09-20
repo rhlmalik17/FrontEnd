@@ -1,0 +1,89 @@
+.head{
+    height: 100px;
+    width: 100px;
+    background-color: #74dc22;
+    border-radius: 50px;
+    animation: 5s bouncehead;
+}
+.bodyflex
+{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.bodyflex .armleft{
+    height: 100px;
+    width: 10px;
+    background-color: #74dc22;
+    border-radius: 50px;
+}
+
+.bodyflex .armright{
+    height: 100px;
+    width: 10px;
+    background-color: #74dc22;
+    border-radius: 50px;
+}
+
+.bodyflex .body{
+    height: 100px;
+    width: 50px;
+    background-color: #74dc22;
+}
+
+.bottom
+{
+    display: flex;
+    width: 95px;
+    justify-content: space-around;
+}
+.bottom .legleft{
+    height: 100px;
+    width: 10px;
+    background-color: #74dc22;
+    border-radius: 50px;
+}
+
+.bottom .legright{
+    height: 100px;
+    width: 10px;
+    background-color: #74dc22;
+    border-radius: 50px;
+}
+@keyframes bouncehead {
+    0%
+    {
+        transform: translate(0px,0px);
+    }
+    2%{
+        transform: translate(0px,-20px);
+    }
+    4%
+    {
+        transform: translate(0px,0px);
+    }
+    6%
+    {
+        transform: translate(0px,-15px);
+    }
+    8%{
+        transform: translate(0px,0px);
+    }
+    10%
+    {
+        transform: translate(0px,-10px);
+    }
+    11%
+    {
+        transform: translate(0px,0px);
+    }
+    15%{
+
+        transform: translate(30px,-50px);
+    }
+    25%{
+        transform: translate(300px,200px);
+    }
+
+}

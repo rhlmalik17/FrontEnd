@@ -1,0 +1,54 @@
+
+/*
+    CSS ANIMATIONS
+    1. Starting Stage: 0%;
+    2. Ending Stage: 100%;
+
+    @keyframes animationName{
+        0%{
+            //default change
+        }
+        100%{
+            //changes that are going to be executed once animation reaches at it's 100% stage;
+        }
+
+        //there can be multiple stages within keyframes for an animation 0% 25% 50% 100%
+
+    }
+
+    animation-iteration-count: int/infinite;
+    animation-fill-mode: forwards/backwards
+ */
+
+.mydiv{
+    background-color: #3A93CC;
+    height: 50px;
+    width: 50px;
+    animation: 10s move;
+    animation-fill-mode: backwards;
+    /*animation-iteration-count: infinite;*/
+}
+@keyframes move {
+    0% {
+
+        transform: translateX(0px);
+    }
+    25% {
+        background-color: #ff714f;
+        transform: translateX(200px);
+    }
+    50%
+    {
+        background-color: #c4c4c0;
+        transform: translate(200px,200px);
+    }
+    75%
+    {
+        background-color: purple;
+        transform: translate(0px,200px);
+    }
+    100%{
+        background-color: #3A93CC;
+        transform: translate(0px,0px);
+    }
+}

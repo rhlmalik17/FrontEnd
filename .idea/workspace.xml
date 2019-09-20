@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96795e0f-6eb3-460c-8e43-349c29903455" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Box-ShadowProperty/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Box-ShadowProperty/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxShadow-ButtonQuestion/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxShadow-ButtonQuestion/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS transform property/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS transform property/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media Query/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media Query/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS ANIMATION EXAMPLES/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS ANIMATION EXAMPLES/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css Animations/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css Animations/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daneden Animations/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delthis/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delthis/second.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,21 +35,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Box-ShadowProperty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS ANIMATION EXAMPLES" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Box-ShadowProperty" />
-      <recent name="$PROJECT_DIR$/FlexBoxPractice" />
-      <recent name="$PROJECT_DIR$/ColorDefiningTechniques" />
-      <recent name="$PROJECT_DIR$/Margin" />
-      <recent name="$PROJECT_DIR$/Border" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Border" />
       <recent name="$PROJECT_DIR$/ColorDefiningTechniques" />
       <recent name="$PROJECT_DIR$/Padding" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS ANIMATION EXAMPLES" />
+      <recent name="$PROJECT_DIR$/Box-ShadowProperty" />
+      <recent name="$PROJECT_DIR$/FlexBoxPractice" />
+      <recent name="$PROJECT_DIR$/ColorDefiningTechniques" />
+      <recent name="$PROJECT_DIR$/Margin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,29 +64,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/Box-ShadowProperty/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/BoxShadow-ButtonQuestion/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.second.html">
+    <configuration name="first.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/delthis/first.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/Media Query/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (6)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/FlexBoxPractice/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/Css Animations/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/CSS transform property/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/CSS ANIMATION EXAMPLES/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="second.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/delthis/second.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.second.html" />
+        <item itemvalue="JavaScript Debug.first.html" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +108,9 @@
       <workItem from="1568779777664" duration="74000" />
       <workItem from="1568779868242" duration="2526000" />
       <workItem from="1568782411031" duration="1452000" />
-      <workItem from="1568864949511" duration="5971000" />
+      <workItem from="1568864949511" duration="6050000" />
+      <workItem from="1568950872512" duration="4223000" />
+      <workItem from="1568955477211" duration="1904000" />
     </task>
     <servers />
   </component>
@@ -132,5 +133,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1568694238126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__2_.dat" NAME="index.html (2) Coverage Results" MODIFIED="1568870241584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__5_.dat" NAME="index.html (5) Coverage Results" MODIFIED="1568952752550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
