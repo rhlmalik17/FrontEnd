@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Anonymous Functions</title>
+    <script>
+        function show(x)
+        {
+            console.log("Show Function");
+            x();
+        }
+        show(function(){
+            console.log("Passed as a parameter.")
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>

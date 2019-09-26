@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Object Oriented</title>
+    <script>
+        var obj1 = {
+            name: 'rahul',
+            id: 505,
+            show: function () {
+                var name = 'XYZ';
+                console.log(this.name);
+                // console.log("a function inside the object");
+            },
+            setName: function(name)
+            {
+                this.name = name;
+            }
+        };
+        obj1.setName("Zeus");
+        obj1.show();
+        //getting value from user
+        // obj1.name = prompt();
+        // console.log(obj1.name);
+        // console.log(obj1.name); //method 1
+        // console.log(obj1["name"]); //method 2
+    </script>
+</head>
+<body>
+</body>
+</html>

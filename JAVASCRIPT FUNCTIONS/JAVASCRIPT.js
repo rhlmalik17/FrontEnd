@@ -4,12 +4,11 @@
 //     console.log(y);
 // }
 function demo() {
- console.log("Hello");
-
+    console.log(2**4/4);
 }
-function show(x)
-{
-    console.log("show function");
-    x();
-}
-show(demo);
+// function show(x)
+// {
+//     console.log("show function");
+//     x();
+// }
+// show(demo);

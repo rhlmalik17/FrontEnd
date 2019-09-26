@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96795e0f-6eb3-460c-8e43-349c29903455" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/JAVASCRIPT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnonymousFunctionsInJavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectChallengeJS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsInJavaScript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.Notes.odt#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSIntro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSIntro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSIntro/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSIntro/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/JAVASCRIPT.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/JAVASCRIPT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT FUNCTIONS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Notes.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.odt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,29 +64,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/DelThis/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/Media Query/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/JAVASCRIPT FUNCTIONS/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/Del this/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/AnonymousFunctionsInJavaScript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="second.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/delthis/second.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/ObjectsInJavaScript/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndNotes/ObjectChallengeJS/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.second.html" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +118,9 @@
       <workItem from="1569302198211" duration="597000" />
       <workItem from="1569303951503" duration="2508000" />
       <workItem from="1569389420570" duration="4168000" />
+      <workItem from="1569402355336" duration="80000" />
+      <workItem from="1569472186538" duration="3285000" />
+      <workItem from="1569475640862" duration="1497000" />
     </task>
     <servers />
   </component>
@@ -141,5 +144,6 @@
     <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1569126847216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__2_.dat" NAME="index.html (2) Coverage Results" MODIFIED="1568870241584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__5_.dat" NAME="index.html (5) Coverage Results" MODIFIED="1568952752550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FrontEndNotes$index_html__3_.dat" NAME="index.html (3) Coverage Results" MODIFIED="1569402410617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
